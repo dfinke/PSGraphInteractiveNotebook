@@ -1,6 +1,6 @@
 # PSGraph Interactive Notebook
 
-PSGraph is a set of utilities for working with Graphviz in Powershell. Written by `Kevin Marquette`.
+PSGraph is a set of utilities for working with Graphviz in Powershell. Written by [Kevin Marquette](https://github.com/KevinMarquette/PSGraph).
 
 ## Now it works in .NET Interactive Notebooks
 
